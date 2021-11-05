@@ -1,0 +1,7 @@
+version 1 of my project
+version 2 of my project
+changed again
+hii
+good morning
+i did some changes in master branch
+this content is added in bugfix branch

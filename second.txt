@@ -1,0 +1,2 @@
+this is second.txt and i changed something
+this is added at bugfix branch
